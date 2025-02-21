@@ -3,6 +3,9 @@
 AI-Powered Task Management System
 Overview
 This is a full-stack AI-powered task management system built using Golang (Gin/Fiber) for the backend and Next.js (TypeScript + Tailwind CSS) for the frontend. The system enables real-time task tracking, JWT-based authentication, and AI-powered task recommendations. It is deployed on Render/Fly.io for the backend and Vercel for the frontend.
+
+
+
 Note: The frontend depends on the backend API, so ensure the backend is set up and running first. If there are errors in the backend, they must be resolved before proceeding with frontend development
 Features
 User Authentication: Secure JWT-based authentication.
