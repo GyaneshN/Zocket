@@ -6,7 +6,7 @@ This is a full-stack AI-powered task management system built using Golang (Gin/F
 
 
 
-Note: The frontend depends on the backend API, so ensure the backend is set up and running first. If there are errors in the backend, they must be resolved before proceeding with frontend development
+Note: The frontend depends on the backend API, so the backend is set up and running first. i am facing errors in the backend, they must be resolved before proceeding with frontend development
 Features
 User Authentication: Secure JWT-based authentication.
 
